@@ -23,9 +23,8 @@ Your code logic, variable names, and structure stay exactly the same. The AI und
 |---|---|---|
 | Spring Boot microservice | Java | **24-43%** |
 | Python CLI tool | Python | **26%** |
-| React web app | JSX | **10%** |
 
-Works best on Java, Python, Go — languages with more boilerplate. Savings grow with project size.
+Savings grow with project size — more files means more repeated patterns to compress.
 
 ## Quick Setup
 
