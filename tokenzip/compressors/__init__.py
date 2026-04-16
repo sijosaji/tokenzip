@@ -1,0 +1,7 @@
+from tokenzip.compressors.base import BaseCompressor
+from tokenzip.compressors.comment_stripper import CommentStripper
+from tokenzip.compressors.whitespace_normalizer import WhitespaceNormalizer
+from tokenzip.compressors.rle_compressor import RLECompressor
+from tokenzip.compressors.dictionary_coder import DictionaryCoder
+from tokenzip.compressors.deduplicator import Deduplicator
+from tokenzip.compressors.ast_pattern_extractor import extract_patterns, is_available as ast_available
