@@ -129,7 +129,3 @@ It also strips comments (the AI doesn't need `// initialize database connection`
 source .venv/bin/activate
 python -m pytest tests/ -v   # 21 tests
 ```
-
-## License
-
-MIT
